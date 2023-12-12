@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MapLibre Simple Map</string>
+    <string name="description_hillshade">Hillshade Layer Description</string>
+<string name="activity_hillshade">Hillshade Layer Activity</string>
+<string name="category">Category Description</string>
+<string name="category_style">Category Style Description</string>
 </resources>
